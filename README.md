@@ -1,6 +1,6 @@
 ## Hello Peoples👋
 
-**Eduardoklassen/Eduardoklassen
+**Eduardoklassen
 <h2 align="left"> Oi meu nome é Eduardo, sou novo na área e busco diferentes conhecimentos de linguagens</h2>
 
 ###
