@@ -1,7 +1,8 @@
 ## Hello Peoples👋
 
 **Eduardoklassen
-<h2 align="left"> Oi meu nome é Eduardo, sou novo na área e busco diferentes conhecimentos de linguagens</h2>
+<h2 align="left"> Oi meu nome é Eduardo, sou novo na área e busco sempre aprender</h2>
+<h2 align="left> Futuro Full-Stack</h2>
 
 ###
 
