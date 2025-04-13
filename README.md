@@ -1,4 +1,4 @@
-## Hello Peoples👋
+Olá 👋
 
 <!-- Me chamo Eduardo, sou novo na área e pretendo ser futuro Full-Stack -->
 
