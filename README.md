@@ -1,8 +1,9 @@
+<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
+
 <h2 align="left">Olá 👋! Meu nome é Eduardo, sou novo na área e busco sempre aprender</h2>
 
 <h2 align="left">Futuro Desenvolvedor Full-Stack</h2>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eduardoklassen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
@@ -11,10 +12,8 @@
 
 ###
 
-<!-- Bandeira do Brasil com animação (GIF) -->
 <img align="right" height="150" src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" alt="Bandeira do Brasil animada" />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
@@ -26,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
 </div>
 
-###
-
 <div align="left">
   <a href="mailto:eduardoklassenbr@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -37,10 +34,11 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
+
+</div>
 
 
   
