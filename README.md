@@ -31,6 +31,5 @@
 
 <br clear="both">
 
-<img src="https://github.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
 
   
