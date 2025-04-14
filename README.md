@@ -41,7 +41,6 @@
 
 <br clear="both">
 
-<!-- Animação snake apenas visual -->
-<img src="https://github.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
 
   
